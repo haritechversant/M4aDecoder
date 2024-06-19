@@ -1,5 +1,7 @@
 To find samplerate and duration of M4a type audio format pls follow below steps
 
+Install   go get github.com/haritechversant/M4aDecoder/m4adecoder
+
 package main
 
 import (
